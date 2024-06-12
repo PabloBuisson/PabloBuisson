@@ -6,5 +6,5 @@ And last but not least, I love learning new things.
 
 - 👀 I’m interested in *UX*, *Design*, *Accessibility*, *Clean code*
 - ❤ I love working with *TypeScript*, *Tailwind CSS*, *Vue.js*, *Flutter* 
-- 🌱 I’m currently learning *Spring Boot*
+- 🌱 I’m currently learning *Spring Boot* and *Next.js*
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/pablobuisson/)
